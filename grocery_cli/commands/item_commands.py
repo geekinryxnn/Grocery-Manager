@@ -15,7 +15,7 @@ def add(name, category):
     new_item = Item(name=name, category=category)
     session.add(new_item)
     session.commit()
-    click.echo(f"✅ Added: {name} ({category})")
+    click.echo(f" Added: {name} ({category})")
 
 @item.command()
 def list():
