@@ -21,6 +21,6 @@ cd grocery_list_manager
 
 1. Run the application:
     ```bash
-  python -m grocery_cli.main glist
+    python -m grocery_cli.main glist
     ```
-2. Follow the on-screen prompts to manage your grocery lists
+2. Follow the on-screen prompts to manage your grocery lists.
