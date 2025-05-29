@@ -14,13 +14,13 @@ A simple and efficient tool to manage your grocery lists.
 ```bash
 git clone https://github.com/yourusername/grocery_list_manager.git
 cd grocery_list_manager
-# Follow project-specific setup instructions
+
 ```
 
 ## Usage
 
 1. Run the application:
     ```bash
-    python main.py
+  python -m grocery_cli.main glist
     ```
-2. Follow the on-screen prompts to manage your grocery lists.
+2. Follow the on-screen prompts to manage your grocery lists
