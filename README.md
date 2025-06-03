@@ -6,7 +6,6 @@ A simple and efficient tool to manage your grocery lists.
 
 - Add, edit, and remove grocery items
 - Organize items by categories
-- Mark items as purchased
 - Save and load multiple lists
 
 ## Installation
